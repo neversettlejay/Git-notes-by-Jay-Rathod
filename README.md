@@ -1,1 +1,1 @@
-Git-notes-by-Jay-Rathod
+Git notes by Jay Rathod
