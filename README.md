@@ -13,6 +13,6 @@ Cmd 8: git status -s (tells small status for working tree) \
 Cmd 9 : git branch branchName ( create branch) \
 Cmd 10: git branch (shows total branches and currently we are where) \
 Cmd 11: git checkout branchName ( switched to this branch) \
-Cmd 12: git checkout master (switched to master branch)\ 
+Cmd 12: git checkout master (switched to master branch) \ 
 Cmd 13: git merge branchName ( when you are in master branch then you can use it to merge your branch with master) \
 Cmd 14: git checkout -b branchName ( branch is created and switched to this branch)\
